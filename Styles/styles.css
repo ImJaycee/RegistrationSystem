@@ -1,0 +1,308 @@
+
+    *{
+        margin: 0;
+        padding: 0;
+        font-family: 'Josefin Sans', sans-serif;
+        box-sizing: border-box;
+    }
+    html{
+        scroll-behavior: smooth;
+        overflow: hidden;
+    }
+    header{
+   
+        position:fixed;
+        right: 0;
+        left: 0;
+        top: 0;
+        padding-top: 10px;
+      background-color: transparent;
+        height: 55px;
+        
+    }
+    nav{
+        display: flex;
+        align-items: center;
+        margin: auto;
+        padding-top: 5px;
+        padding-left: 8%;
+        padding-right: 8%;
+    
+    }
+    
+    nav ul{
+        margin: auto;
+        font-size: 20px;
+        padding: 0;
+        text-align: center;
+    
+    }
+    nav ul :hover{
+        transform: scale(1.2);
+        transition: all 0.4s;
+    }
+    nav ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 25px; 
+    }
+    nav ul li a{
+        color: white;
+        text-decoration: none;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .active{
+        color: #1f7f55;
+    }
+
+
+    .aboutlogo{
+        text-align: center; 
+        color:#e1e1e1; 
+        font-size: 40px; 
+        padding-top: 70px;
+
+    }
+    .aboutMyself{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    #Myinformation {       
+        background-image: url("../assets/bg1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 100vh;
+    }
+    .MyPersonalInfo{
+        width: 70%;
+        height: 100%;
+        padding: 10px;
+        margin-top: 60px;
+        margin-bottom: 50px;
+    }
+    .MyPersonalInfo p{
+        font-size: 25px;
+        font-weight: 400;
+        margin-bottom: 10px;
+        color: #ececec;
+    }
+    .Aboutthiswebsite{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .thiswebsite{
+        display: flex;
+        width: 70%;
+        height: 100%;
+        padding: 10px;
+        border-radius: 10px;
+        margin-top: 60px;
+        margin-bottom: 50px;
+    }
+    .thiswebsite h1{
+        font-size: 35px;
+        font-weight: 600;
+        margin-bottom: 10px;
+        color: #d2d2d2;
+    }
+    .thiswebsite p{
+        font-size: 25px;
+        font-weight: 400;
+        margin-left: 0px;
+        margin-bottom: 10px;
+        color: #c6c6c6;
+    }
+    #LoginPart{
+        background-image: url("../assets/bg1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 100vh;
+    }
+    #LoginPart div{     
+        display: block;
+        padding-top: 20px;
+        padding-bottom: 90px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+    }
+    
+    form {
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        margin-top: 100px;
+        max-width: 500px;
+        min-height: 300px;
+    }
+    form label{
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    input[type=text], input[type=password] {
+        width: 100%;
+        padding: 12px 20px;
+        font-size: 16px;
+        margin: 8px 0;
+        display: inline-block;
+    }
+    #RegistrationPart{
+        background-image: url("../assets/bg1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 100vh;
+        overflow: hidden;
+    }
+    #RegistrationPart div{     
+        display: block;
+        margin-bottom: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+    }
+    
+    #RegistrationPart form {
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        margin-bottom: 5px;
+        max-width: 600px;
+        min-height: 450px;
+
+    }
+    #RegistrationPart form label{
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    input[type=text], input[type=password], input[type=email], input[type=number]{
+        width: 100%;
+        padding: 12px 20px;
+        font-size: 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+    select{
+        width: 100%;
+        padding: 12px 20px;
+        font-size: 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+    button{
+        background-color: #04aa54;
+        font-size: 20px;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+    }
+    /* for mobile devices */
+    @media screen and (max-width: 600px) {
+        nav ul li a{
+            font-size: 20px;
+        }
+        .aboutlogo{
+            font-size: 25px; 
+            padding-top: 65px;
+    
+        }
+        .MyPersonalInfo{
+            width: 90%;
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+        .MyPersonalInfo p{
+            font-size: 17px;
+            font-weight: 200;
+        }
+        .thiswebsite{
+            display: block;
+            width: 90%;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+        .thiswebsite h1{
+            font-size: 22px;
+            font-weight: 300;
+        }
+        .thiswebsite p{
+            font-size: 17px;
+            font-weight: 200;
+        }
+        .logos{
+            display: flex;
+            flex-direction: row;
+            margin-left: auto;
+            margin-right: auto;
+            width: 200px;
+            height: 100px;
+
+        }
+    }
+     /* Media Query for low resolution  Tablets, Ipads */
+     @media (min-width: 481px) and (max-width: 767px) {
+        .aboutlogo{
+            font-size: 30px; 
+            padding-top: 60px;
+    
+        }
+        .MyPersonalInfo{
+            width: 80%;
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+        .MyPersonalInfo p{
+            font-size: 20px;
+            font-weight: 300;
+        }
+        .thiswebsite{
+            display: block;
+            width: 80%;
+            margin-top: 40px;
+            margin-bottom: 30px;
+        }
+        .thiswebsite h1{
+            font-size: 25px;
+            font-weight: 400;
+            margin-bottom: 10px;
+            color: #d2d2d2;
+        }
+        .thiswebsite p{
+            font-size: 20px;
+            font-weight: 300;
+            margin-left: 0px;
+            margin-bottom: 10px;
+            color: #c6c6c6;
+        }
+        .logos{
+            display: flex;
+            flex-direction: row;
+            margin-left: auto;
+            margin-right: auto;
+            width: 250px;
+            height: 150px;
+
+        }
+    }
+    
