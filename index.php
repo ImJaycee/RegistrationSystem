@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,15 +77,15 @@
 
     <section id="RegistrationPart">
         <div>
-        <form action="" method="post">                
+        <form action="Register.php" method="post">                
             <div class="container">
             <h1 style="font-size: 35px; margin-bottom: 20px; text-align: center; color: #1f7f55;">Register Account</h1>
+            <label for="name"><b>Name</b></label>
+            <input type="text" name="name" required>
             <label for="username"><b>Username</b></label>
             <input type="text" name="username" required>
             <label for="email"><b>Email</b></label>
             <input type="email" name="email" required>
-            <label for="age"><b>Age</b></label>
-            <input type="number" name="age" required>
             <label for="sex">Sex</label><br>
             <select name="sex" id="sex" required>
                 <option value="">Select</option>
@@ -92,8 +93,10 @@
                 <option value="Female">Female</option>
               </select>
             <label for="password"><b>Password</b></label>
-            <input type="password" name="password" required>              
-            <button type="submit">Register</button>
+            <input type="password" name="password" required>     
+            <label for="con-password"><b>Confirm Password</b></label>
+            <input type="password" name="con-password" required>          
+            <button type="submit" name="register" value="register">Register</button>
             </div>
                 
         </form>
