@@ -76,7 +76,7 @@
 
     <section id="RegistrationPart">
         <div>
-        <form action="" method="post">                
+        <form action="Register.php" method="post">                
             <div class="container">
             <h1 style="font-size: 35px; margin-bottom: 20px; text-align: center; color: #1f7f55;">Register Account</h1>
             <label for="username"><b>Username</b></label>
