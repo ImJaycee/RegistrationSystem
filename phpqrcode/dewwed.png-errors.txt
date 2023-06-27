@@ -1,0 +1,440 @@
+2023-06-25 15:07:20: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:07:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:08:00: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:11:36: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:11:58: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:12:09: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:12:25: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:12:54: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:13:20: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:13:24: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:14:00: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:14:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:15:11: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:15:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:16:19: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:16:33: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:16:55: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:17:08: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:17:17: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:17:29: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:18:07: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:18:57: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-06-25 15:20:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>C:\Users\Jay Cee\Desktop\Registration-hosting\RegistrationSystem\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
