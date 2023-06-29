@@ -1,4 +1,49 @@
+<?php
 
+    session_start();
+
+    if(isset($_POST['login'])){
+
+        $user = $_POST['uname'];
+        $pass = $_POST['pwd'];
+
+        include_once 'includes/connect.php';
+
+        $pdoQuery = "SELECT * FROM users WHERE username = :username AND password = :password";
+        $pdoResult = $pdoConnect->prepare($pdoQuery);
+        $pdoResult->execute(array(':username' => $user, ':password' => $pass));
+
+        if ($pdoResult->rowCount() > 0) {
+            $row = $pdoResult->fetch(PDO::FETCH_ASSOC);
+            $id = $row['id'];
+            $name = $row['name'];
+            $email = $row['email'];
+            $_SESSION['id'] = $id;
+            $_SESSION['name'] = $name;
+            $_SESSION['email'] = $email;
+            $_SESSION['logged_in'] = true;
+            
+            header('Location: pages/dashboard.php');
+        } else {
+            ?>
+            <script>
+                alert("Invalid Username or Password");
+            </script>
+            
+            <?php
+        }
+            
+
+        ?>  
+        <script>
+            alert("Invalid Username or Password");
+        </script>
+        
+        <?php
+    }
+
+
+    ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -26,14 +71,15 @@
 <body>
     
     <section id="Myinformation">
-    <h1 class="aboutlogo" >About Me</h1>
+    <h1 class="aboutlogo" >Register and Login Website</h1>
     <div class="aboutMyself">
     <div class="MyPersonalInfo">
     <div>
     <p>
-        Hi, my name is Jay Cee Cruz I'm a second-year IT student at Don Honorio Ventura State University. I'm now working on 
-        improving my Web Development skills. I'm also doing some basic backend development and am eager 
-        to learn and participate in trainings.
+    Welcome, my name is Jay Cee Cruz, and I'm a second-year information technology student. I'm currently working on improving my Web Development
+      skills. I'm also doing some backend programming. You can use this website by creating an account 
+      and logging in with that account. This website is purely for testing purposes; do not enter any 
+      personal information or passwords.
     </p>
     </div>
     </div>
@@ -78,7 +124,7 @@
 
     <section id="RegistrationPart">
         <div>
-        <form action="Register.php" method="post">                
+        <form action="includes/Register.php" method="post">                
             <div class="container">
             <h1 style="font-size: 35px; margin-bottom: 20px; text-align: center; color: #1f7f55;">Register Account</h1>
             <label for="name"><b>Name</b></label>

@@ -48,7 +48,7 @@
 
         if (isset($_POST['register']))
         {
-            include_once 'includes/connect.php';
+            include_once 'connect.php';
 
         $name = $_POST['name'];
         $username = $_POST['username'];
@@ -77,12 +77,12 @@
                     $name = $row['name'];
                     $email = $row['email'];
                    
-                    require_once 'phpqrcode/qrlib.php';
+                    require_once '../phpqrcode/qrlib.php';
 
                     // Generate QR code
                     $qrText = "ID no: " . $id . "\nName: " . $name . "\nEmail: " . $email . "" ;
                     
-                    $filePath = 'assets/qrcodes/' . $username . ".png";
+                    $filePath = '../assets/qrcodes/' . $username . ".png";
                     $fileName = $username . ".png";
 
                     $pdoQuery = "INSERT INTO `user-qrcode` (`userid`, `qrcode`) VALUES (:userid, :qrcode)"; 
@@ -98,9 +98,9 @@
                     if ($pdoResult->rowCount() > 0) {
                         while ($row = $pdoResult -> fetch()){
                             $qrcode = $row['qrcode'];
-                            echo "<center><img src='assets/qrcodes/$qrcode'></center>";
-                            echo "<center><a href='assets/qrcodes/$qrcode' download>Download</a></center>";
-                            echo "<center><a href='index.php'>Back to Home</a></center>";
+                            echo "<center><img src='../assets/qrcodes/$qrcode'></center><br/>";
+                            echo "<center><a href='../assets/qrcodes/$qrcode' download>Download</a></center>";
+                            echo "<center><a href='../index.php'>Back to Home</a></center>";
                             exit();
                         }
                     }
