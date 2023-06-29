@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -67,7 +68,7 @@
             <label for="pwd"><b>Password</b></label>
             <input type="password" name="pwd" required>
                             
-            <button type="submit">Login</button>
+            <button type="submit" value="login" name="login">Login</button>
         </div>
                     
         </form>
