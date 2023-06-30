@@ -113,6 +113,7 @@
 
             <label for="pwd"><b>Password</b></label>
             <input type="password" name="pwd" required>
+            <a href="pages/forgotpassword.php">Forgot Password?</a>
                             
             <button type="submit" value="login" name="login">Login</button>
         </div>
